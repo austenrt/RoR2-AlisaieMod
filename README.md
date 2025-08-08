@@ -5,13 +5,16 @@ A custom survivor mod for Risk of Rain 2 that adds the character Alisaie from Fi
 Cast spells to gain mana, then spend mana through enchanted rapier combos to gain access to more powerful spells.
 
 # Screenshots
-![20250804174915_1](https://github.com/user-attachments/assets/47568cd5-5132-45df-80c2-802c177907b4)
 
-![20250804175108_1](https://github.com/user-attachments/assets/8b1589aa-a38b-4ac8-918a-36a5e3b96b49)
+![20250804174915_1](https://github.com/user-attachments/assets/01d8b75f-42e6-4ab1-b003-7e0946a00d84)
 
-![20250804174800_1](https://github.com/user-attachments/assets/715096bc-8612-426c-b1bf-8c71ced44ec5)
+![20250804174800_1](https://github.com/user-attachments/assets/1a542baf-79d7-45c8-b24f-6a0b99841c88)
 
-![20250721140709_1](https://github.com/user-attachments/assets/c2351a54-fc50-4afe-bdf0-6f0af965992f)
+![20250721140709_1](https://github.com/user-attachments/assets/8e30e343-2d15-4286-b30d-a7fe2ddbf03a)
+
+![20250804175108_1](https://github.com/user-attachments/assets/e536a5e3-58b1-43e2-9530-2e2912056682)
+
+
 
 # Skills
 ## Primary
@@ -19,41 +22,46 @@ Cast spells to gain mana, then spend mana through enchanted rapier combos to gai
 ### Jolt
 Charge up a projectile, dealing up to **320% damage** and generating 2 white mana and 2 black mana. Full charge grants **Dualcast**.
 
-<img width="80" height="80" alt="texIconJolt" src="https://github.com/user-attachments/assets/48269a7c-9644-4a69-a39f-e7384cbaccdc" />
+<img width="80" height="80" alt="texIconJolt" src="https://github.com/user-attachments/assets/d48fca54-fc00-4331-b8c3-37b7109a48e5" />
+
 
 ---
 
 ## Dualcast Spells
 During dualcast, primary and secondary are replaced with the following instant-cast spells.
 
-<img width="48" height="64" alt="texIconDualcast" src="https://github.com/user-attachments/assets/c1232f7b-e5a6-4e2a-8346-4c26c6fb22bb" />
+<img width="48" height="64" alt="texIconDualcast" src="https://github.com/user-attachments/assets/dd406297-3d89-419c-9d94-2be9ea057764" />
+
 
 ### Veraero
 Unleash wind-aspected magic, dealing **325% AOE damage** and generating 7 white mana. Only usable during **Dualcast**.
 
-<img width="80" height="80" alt="texIconVeraero" src="https://github.com/user-attachments/assets/3afabc7f-e3b9-455e-a14a-f17e81156374" />
+<img width="80" height="80" alt="texIconVeraero" src="https://github.com/user-attachments/assets/0eb969e7-5666-4056-8a8f-07fde5b97d8a" />
+
 
 ### Verthunder
 Fire 1–10 lightning orbs based on level, each dealing **250% damage**. Generates 7 black mana. Only usable during **Dualcast**.
 
-<img width="80" height="80" alt="texIconVerthunder" src="https://github.com/user-attachments/assets/c2602e99-5d4e-4896-a3c1-a08da3b30896" />
+<img width="80" height="80" alt="texIconVerthunder" src="https://github.com/user-attachments/assets/c31c13d1-7505-4508-b30d-49619c64e66b" />
+
 
 ---
 
 ## Finisher Spells
 After an enchanted combo, primary and secondary are replaced with the following powerful instant-cast spells.
 
-<img width="48" height="64" alt="texIconFinisher" src="https://github.com/user-attachments/assets/dfa40f06-f1af-45cd-a77a-5c3a717f31a5" />
+<img width="48" height="64" alt="texIconFinisher" src="https://github.com/user-attachments/assets/82cd1a08-293f-41fa-b0e8-9e63b98c33ff" />
+
 
 ### Verholy
 Fire a concentrated blast of holy energy at your target, dealing **1600% AoE damage** and generating 11 white mana. Heals all allies within a large radius for half the AoE damage. Only usable after an **Enchanted Combo**.
 
-<img width="80" height="80" alt="texIconVerholy" src="https://github.com/user-attachments/assets/464008c1-2a62-42d3-a07e-857b9d3c1eb0" />
+<img width="80" height="80" alt="texIconVerholy" src="https://github.com/user-attachments/assets/ced48a1b-d397-4f59-96ba-d7ab23628598" />
 
 ### Verflare
 Unleash an explosion, applying burn and dealing **2400% AoE damage**. Generates 11 black mana. Only usable after an **Enchanted Combo**.
 
-<img width="80" height="80" alt="texIconVerflare" src="https://github.com/user-attachments/assets/d917dff2-bc2b-409e-8408-7421bb6b141c" />
+<img width="80" height="80" alt="texIconVerflare" src="https://github.com/user-attachments/assets/36fbf26c-6914-4b16-8598-cde893dd5f10" />
 
 ---
 
@@ -62,7 +70,7 @@ Unleash an explosion, applying burn and dealing **2400% AoE damage**. Generates 
 ### Acceleration
 Gain **Dualcast** instantly and double mana gain for 10 seconds.
 
-<img width="80" height="80" alt="texIconAcceleration" src="https://github.com/user-attachments/assets/1a3fd828-d1ed-484d-976d-56ecbc0468ed" />
+<img width="80" height="80" alt="texIconJolt" src="https://github.com/user-attachments/assets/793bc12c-a54b-4503-977b-45e53d78fb8c" />
 
 ---
 
@@ -71,7 +79,7 @@ Gain **Dualcast** instantly and double mana gain for 10 seconds.
 ### Corps-A-Corps
 Rush forward with a sword attack for **300% damage** and briefly dodge.
 
-<img width="80" height="80" alt="texIconCorpsACorps" src="https://github.com/user-attachments/assets/540620bf-68ae-4485-87f7-aff726f5018f" />
+<img width="80" height="80" alt="texIconCorpsACorps" src="https://github.com/user-attachments/assets/66e9def7-bcb3-4b0c-832f-25882b4484d1" />
 
 ---
 
@@ -81,17 +89,18 @@ Perform a series of rapier attacks, each dealing increasing damage. Combo become
 ### Riposte
 A swing and thrust with your rapier, dealing **300% damage per hit** (**600% total**, 2 hits).
 
-<img width="80" height="80" alt="texIconS1Riposte" src="https://github.com/user-attachments/assets/c7da2432-711f-483e-b373-db3c4218e6e5" />
+<img width="80" height="80" alt="texIconS1Riposte" src="https://github.com/user-attachments/assets/fbb1f050-4c5d-4f2c-b64f-7feb5a925e70" />
 
 ### Zwerchhau
 Three slashes with your rapier, each dealing **267% damage** (**800% total**, 3 hits).
 
-<img width="80" height="80" alt="texIconS2Zwerchhau" src="https://github.com/user-attachments/assets/af14357d-3fb6-47e1-bf28-e7b0f5e47d0a" />
+<img width="80" height="80" alt="texIconS2Zwerchhau" src="https://github.com/user-attachments/assets/d2e146cd-e804-487c-a9d1-545ae055ff36" />
+
 
 ### Redoublement
 Six rapid jabs with your rapier, each dealing **167% damage** (**1000% total**, 6 hits).
 
-<img width="80" height="80" alt="texIconS3Redoublement" src="https://github.com/user-attachments/assets/44a5d83e-464b-4e19-9f26-7f658c9f937e" />
+<img width="80" height="80" alt="texIconS3Redoublement" src="https://github.com/user-attachments/assets/3392a652-729d-4a6a-92ff-ba93c764e282" />
 
 ---
 
@@ -101,17 +110,17 @@ Enchanted combos are available above 50/50 mana and grant access to Verholy/Verf
 ### Enchanted Riposte
 A swing and thrust with your rapier, dealing **600% damage per hit** (**1200% total**, 2 hits). Costs 20 Black and White Mana.
 
-<img width="80" height="80" alt="texIconES1Riposte" src="https://github.com/user-attachments/assets/507575cd-a158-45d8-910e-34005e1918d3" />
+<img width="80" height="80" alt="texIconES1Riposte" src="https://github.com/user-attachments/assets/81fefaee-2260-43ab-baa3-ee733de7f115" />
 
 ### Enchanted Zwerchhau
 Three slashes with your rapier, each dealing **533% damage** (**1600% total**, 3 hits). Costs 15 Black and White Mana.
 
-<img width="80" height="80" alt="texIconES2Zwerchhau" src="https://github.com/user-attachments/assets/55b8af09-2814-41cb-90b3-9dde1b190f5f" />
+<img width="80" height="80" alt="texIconES2Zwerchhau" src="https://github.com/user-attachments/assets/051e43cb-7c48-4d35-86b0-119c6bee0247" />
 
 ### Enchanted Redoublement
 Six rapid jabs with your rapier, each dealing **333% damage** (**2000% total**, 6 hits). Costs 15 Black and White Mana. Enables **finisher spells.**
 
-<img width="80" height="80" alt="texIconES3Redoublement" src="https://github.com/user-attachments/assets/182467af-8d15-4ffc-a112-203cfd39d485" />
+<img width="80" height="80" alt="texIconES3Redoublement" src="https://github.com/user-attachments/assets/cfb46b99-1487-46ef-8d7a-809f32f77209" />
 
 ---
 # Known Issues
